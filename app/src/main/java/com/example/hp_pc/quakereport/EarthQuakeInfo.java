@@ -6,6 +6,7 @@ package com.example.hp_pc.quakereport;
 
 class EarthQuakeInfo {
 
+
     private  String mUrl;
     /** Magnitude of the earthquake
      *
