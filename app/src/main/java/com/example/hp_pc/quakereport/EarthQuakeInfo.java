@@ -43,6 +43,8 @@ class EarthQuakeInfo {
 
     }
 
+
+
     /** Returns the magnitude of the earthquake
      *
      */

@@ -185,6 +185,7 @@ import java.util.List;
      * Query the USGS dataset and return a list of {@link EarthQuakeInfo} objects.
      */
     public static List<EarthQuakeInfo> fetchEarthquakeData(String requestUrl) {
+
         // Create URL object
         URL url = createUrl(requestUrl);
 
